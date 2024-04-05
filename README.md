@@ -1,6 +1,5 @@
 # mean median impute univariante
 We are going to use the Titanic toy dataset to perform mean median impute univariate on the dataset.
-Certainly! Here's a sample README.md description for your GitHub repository:
 
 ---
 
